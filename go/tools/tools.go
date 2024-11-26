@@ -1,6 +1,6 @@
 package tools
 
-func display(nums []int) {
+func Display(nums []int) {
 	print("{")
 	for i, x := range nums {
 		print(x)
